@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Surendra's github stats](https://github-readme-stats.vercel.app/api?username=phanirithvij&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Surendra's github stats](https://github-readme-stats.vercel.app/api?username=surendra1233&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanirithvij&layout=compact&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true&langs_count=12)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surendra1233&layout=compact&title_color=f4ff04&text_color=fff249&icon_color=ffdb62&bg_color=000000&hide_border=true&langs_count=12)
 
-[![snake](https://raw.githubusercontent.com/phanirithvij/phanirithvij/output/github-contribution-grid-snake-dark.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+[![snake](https://raw.githubusercontent.com/surendra1233/surendra1233/output/github-contribution-grid-snake-dark.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
